@@ -8,7 +8,7 @@ The original DF module details are here: https://wiki.dfrobot.com/DFPlayer_Mini_
 
 The modules I purchased for testing all came from eBay at around $2 a unit; there may be different clone versions out there, and I do not know if they are all compatible.
 
-This module is experimental and had build quirks. The PCB has various unused and untested parts.
+This module is experimental and had build quirks. The PCB has various unused and untested parts. I don't have a schamtic at this time but see the pcb layout below to help with the build and read these notes.
 
 ## TIPS TO BUILD:
 See PCB- DF Player is soldered directly to PCB.  
@@ -62,5 +62,8 @@ Optional | 7805 TO-92 5v regulator
 
 Ignore 2n7000 and 820k resistor on PCB
 
-
 Note this module uses micro SD cards, however for brevity the front panel design just says 'SD CARD' over the slot. 
+
+## PCB Layout:
+Silk / Front / Back
+![DF PLYBCK](/df_plybck_PCB_layout.png)
