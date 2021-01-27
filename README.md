@@ -11,7 +11,8 @@ The original DF module details are here: https://wiki.dfrobot.com/DFPlayer_Mini_
 
 The modules I purchased for testing all came from eBay at around $2 a unit; there may be different clone versions out there, and I do not know if they are all compatible.
 
-This module is experimental and had build quirks. The PCB has various unused and untested parts. I don't have a schamtic at this time but see the pcb layout below to help with the build and read these notes.
+CAUTION:
+This module is experimental and had build quirks. The PCB has various unused and untested parts. I don't have a schematic at this time but see the pcb layout below to help with the build and read these notes.  This is not a polished design for novice builders.  
 
 ## TIPS TO BUILD:
 See PCB- DF Player is soldered directly to PCB.  
